@@ -1,4 +1,4 @@
-# Python-разработчик
+# Марат Миннегулов — Python-разработчик
 
 Автоматизация, парсинг, интеграции. Удалёнка, UTC+3.
 
@@ -18,6 +18,14 @@
 130 тестов, уведомления в Telegram.
 
 `Python` `Playwright` `SQLite` `Telegram Bot API`
+
+### [freelance-autopilot](https://github.com/Doule212/freelance-autopilot)
+
+Автоматизация рутины на фриланс-бирже: сканирование ленты через Playwright,
+скоринг заказов, подготовка предложений, переписка. Human-in-the-loop: лимиты,
+подтверждения, журнал действий.
+
+`Python` `Playwright` `httpx` `PyYAML`
 
 ## Подтверждённые навыки на hh.ru
 
