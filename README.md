@@ -1,16 +1,30 @@
-## Hi there 👋
+# Марат Миннегулов — Python-разработчик
 
-<!--
-**Doule212/Doule212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Автоматизация, парсинг, интеграции. Удалёнка, UTC+3.
 
-Here are some ideas to get you started:
+## Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**: asyncio, REST API, SQLite/PostgreSQL, unittest
+- **Браузерная автоматизация**: Playwright
+- **Инфраструктура**: Docker, Git, Linux, Bash
+- **Дополнительно**: C++ (Windows, reverse engineering), SQL
+
+## Проекты
+
+### [trade_parser](https://github.com/Doule212/trade_parser)
+
+Парсер 5 маркетплейсов: Авито, DNS, Яндекс Маркет, Wildberries, Ozon.
+19 категорий техники, расчёт экономики на Decimal, SQLite со схемой и миграциями,
+130 тестов, уведомления в Telegram.
+
+`Python` `Playwright` `SQLite` `Telegram Bot API`
+
+## Подтверждённые навыки на hh.ru
+
+Python — средний (теория), C++ — средний, SQL — средний, API — средний.
+PostgreSQL, Docker, Git — базовый.
+
+## Контакты
+
+- Telegram: [@pyctou](https://t.me/pyctou)
+- Email: maratminnegulow2909@gmail.com
